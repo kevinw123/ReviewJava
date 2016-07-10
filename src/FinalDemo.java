@@ -19,6 +19,11 @@ public class FinalDemo {
 		//MAX_VALUE = 101;
 	}
 	
+	final void demo()
+	{
+		System.out.println("Testing final method");
+	}
+	
 	void print()
 	{
 		System.out.println(studentID);
